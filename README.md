@@ -14,7 +14,13 @@ os fatos ocorridos em 2020, tive que mudar minha rotina para aprender
 a trabalhar a distância também. Agora, minha preferência é de trabalhos
 remotos, embora esteja atrás de trabalhos presenciais também.
 
+Atualmente trabalho de forma informal na RedOn Publicidade
+como designer gráfico, assim como freelance na mesma área.
+
 Adoro jogos e gosto de conhecer gente nova 😁 se
 puder me ajudar nos meus repositorios
 agradeço muito, e espero poder ajudar a comunidade
 da mesma forma que me auxiliaram quando comecei.
+
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:andrelara2002@gmail.com)
+LinkedIn: https://www.linkedin.com/in/andré-lara-1a65b2199
