@@ -33,7 +33,7 @@ da mesma forma que me auxiliaram quando comecei.
 - C#
 
 -----------------------------------------------------------------------
-"{\"localizedFirstName\":\"André\",\"localizedLastName\":\"Lara\",\"localizedProfiles\":[{\"vanityName\":\"andré-lara-1a65b2199\",\"firstName\":\"André\",\"lastName\":\"Lara\",\"profileUrl\":\"https://br.linkedin.com/in/andr%C3%A9-lara-1a65b2199\",\"displayLocale\":\"English\",\"encodedId\":null,\"locale\":\"en_US\",\"canonicalName\":null}],\"pageKey\":\"profile-badge-create\",\"badgeVersion\":\"v1\",\"jsBeaconUrl\":\"https://www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=andr%C3%A9-lara-1a65b2199&preferredlocale=en_US\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\"}"
+{\"localizedFirstName\":\"André\",\"localizedLastName\":\"Lara\",\"localizedProfiles\":[{\"vanityName\":\"andré-lara-1a65b2199\",\"firstName\":\"André\",\"lastName\":\"Lara\",\"profileUrl\":\"https://br.linkedin.com/in/andr%C3%A9-lara-1a65b2199\",\"displayLocale\":\"English\",\"encodedId\":null,\"locale\":\"en_US\",\"canonicalName\":null}],\"pageKey\":\"profile-badge-create\",\"badgeVersion\":\"v1\",\"jsBeaconUrl\":\"https://www.linkedin.com/analytics/noauthtracker\",\"defaultBadgeType\":null,\"canonicalUrl\":\"https://www.linkedin.com/badges/profile/create?vanityname=andr%C3%A9-lara-1a65b2199&preferredlocale=en_US\",\"cdnJsPath\":\"https://platform.linkedin.com/badges/js/profile.js\"}
 
 Entre em contato comigo!
 ✉ Gmail: andrelara2002@gmail.com
