@@ -35,5 +35,5 @@ da mesma forma que me auxiliaram quando comecei.
 -----------------------------------------------------------------------
 
 Entre em contato comigo!
-Gmail: andrelara2002@gmail.com
-LinkedIn: https://www.linkedin.com/in/andré-lara-1a65b2199
+✉ Gmail: andrelara2002@gmail.com
+🖼 LinkedIn: https://www.linkedin.com/in/andré-lara-1a65b2199
