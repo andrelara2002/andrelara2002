@@ -2,6 +2,7 @@
 Sou um programador iniciante em busca de conhecimento para melhorar minhas habilidades e evoluir em minha carreira, gostaria de conhecer gente nova no ramo da programação, onde posso aprender cada vez mais como ser um bom profissional. 😁
 
 📚---> Atualmente estou cursando Análise e desenvolvimento de sistemas (ADS) na universidade FIAP, método de ensino EAD (Ensino a distância).
+
 💻---> Tenho facilidade em aprender e trabalhar a distância, graças a sistemas de horários que me auxiliam, sempre estudei assim, e durante os fatos ocorridos em 2020, tive que mudar minha rotina para aprender a trabalhar a distância também.
 
 Atualmente trabalho de forma informal na RedOn Publicidade como designer gráfico, assim como freelance na mesma área.
