@@ -23,4 +23,5 @@ Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repo
 
 Entre em contato comigo!
 ✉ Gmail: andrelara2002@gmail.com
+
 🖼 LinkedIn: https://www.linkedin.com/in/andré-lara-1a65b2199
