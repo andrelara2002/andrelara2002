@@ -12,6 +12,7 @@ Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repo
 - Javascript
 - Photoshop
 - MS Office
+- React Js
 - Python
 - Html
 - Java
