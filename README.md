@@ -5,7 +5,7 @@ Sou um programador iniciante em busca de conhecimento para melhorar minhas habil
 
 💻---> Tenho facilidade em aprender e trabalhar a distância, graças a sistemas de horários que me auxiliam, sempre estudei assim, e durante os fatos ocorridos em 2020, tive que mudar minha rotina para aprender a trabalhar a distância também.
 
-Atualmente trabalho de forma informal na RedOn Publicidade como designer gráfico, assim como freelance na mesma área.
+Atualmente trabalho de forma informal na Agência Intergalática como designer gráfico, assim como freelance na mesma área.
 Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repositórios agradeço muito, e espero poder ajudar a comunidade da mesma forma que me auxiliaram quando comecei.
 
 ⌨ Experiências básicas:
