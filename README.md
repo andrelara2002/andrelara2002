@@ -11,7 +11,6 @@ Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repo
 ⌨ Experiências básicas:
 - Adobe Illustrator
 - Adobe Photoshop
-- Illustrator
 - MS Office
 - UML
 - Kanban
