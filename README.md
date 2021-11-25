@@ -9,7 +9,7 @@ Atualmente trabalho na Scania Latin America, com o pessoal de digitalização, a
 Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repositórios agradeço muito, e espero poder ajudar a comunidade da mesma forma que me auxiliaram quando comecei.
 
 ⌨ Experiências básicas:
-- Adobe Javascript
+- Adobe Illustratir
 - Adobe Photoshop
 - Illustrator
 - MS Office
@@ -18,6 +18,7 @@ Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repo
 
 🌐 Web
 - React native
+- Javascript
 - React Js
 - Html
 - CSS
