@@ -19,6 +19,7 @@ Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repo
 - React native
 - Javascript
 - React Js
+- Node Js
 - Html
 - CSS
 
