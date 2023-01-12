@@ -1,27 +1,37 @@
-### Olá gente 👋
-Sou um programador iniciante em busca de conhecimento para melhorar minhas habilidades e evoluir em minha carreira, gostaria de conhecer gente nova no ramo da programação, onde posso aprender cada vez mais como ser um bom profissional. 😁
+### Olá 👋
+Sou um programador iniciante em busca de conhecimento para melhorar minhas habilidades e evoluir em minha carreira, gostaria de conhecer gente nova no ramo da programação, onde posso aprender cada vez mais como ser um bom profissional. 
 
-📚---> Atualmente estou cursando Análise e desenvolvimento de sistemas (ADS) na universidade FIAP, método de ensino EAD (Ensino a distância).
+📚 -> Atualmente sou formado em Análise e desenvolvimento de sistemas (ADS) na universidade FIAP, e como técnico em mecatrônica.
 
-💻---> Tenho facilidade em aprender e trabalhar a distância, graças a sistemas de horários que me auxiliam, sempre estudei assim, e durante os fatos ocorridos em 2020, tive que mudar minha rotina para aprender a trabalhar a distância também.
+💻 -> Tenho facilidade em aprender e trabalhar a distância, graças a sistemas de horários que me auxiliam, sempre estudei assim, e durante os fatos ocorridos em 2020, tive que mudar minha rotina para aprender a trabalhar a distância também.
 
-Atualmente trabalho na Scania Latin America, com o pessoal de digitalização, assim como freelancer na área de design gráfico.
-Adoro jogos e gosto de conhecer gente nova 😁 se puder me ajudar nos meus repositórios agradeço muito, e espero poder ajudar a comunidade da mesma forma que me auxiliaram quando comecei.
+Trabalhei na Scania Latin America, com o time de automação desenvolvendo ferramentas analíticas para suporte a produção, automatizando processos e recriando ferramentas antigas defasadas. Tenho sólidos conhecimentos no desenvolvimento Web (HTML, CSS e Javascript, React js), com comunições através de APIs Rest assim como sua criação em Python (Flask) ou Node Js (Express), experiência profissional utilizando essas linguagens assim como SQL para banco de dados e FBD para controle de CLPs.
 
-⌨ Experiências básicas:
+Embora não seja registrada, tenho experiências sólidas em design gráfico, trablhando como freelancer por 3 anos, desenvolvendo sites institucionais, logotipos, e materiais de marca, o que me ajudou a desenvolver minha parte artística e criar interfaces mais bonitas e intuitivas.
+
+Experiências básicas:
 - Adobe Illustrator
 - Adobe Photoshop
-- MS Office
-- UML
-- Kanban
+- Figma
+- MS Office (Excel, Word, PowerPoint)
+- Trello
 
-🌐 Web
+Web
 - React native
 - Javascript
 - React Js
-- Node Js
 - Html
 - CSS
+
+Backend
+- Node Js (Express)
+- Python (Flask)
+- C# (Entity Framework)
+- Java
+
+Database
+- SQL Server
+- MongoDB
 
 🖥️ Desktop
 - Java
@@ -34,4 +44,4 @@ Entre em contato comigo!
 
 ✉ Gmail: andrelara2002@gmail.com
 
-🖼 LinkedIn: https://www.linkedin.com/in/andré-lara-1a65b2199
+🖼 LinkedIn: [https://www.linkedin.com/in/andré-lara-1a65b2199](https://www.linkedin.com/in/andrelara2002)
