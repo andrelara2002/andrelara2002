@@ -1,11 +1,11 @@
 ### Olá 👋
 Sou um programador iniciante em busca de conhecimento para melhorar minhas habilidades e evoluir em minha carreira, gostaria de conhecer gente nova no ramo da programação, onde posso aprender cada vez mais como ser um bom profissional. 
 
-📚 ### Estudos
+### 📚 Estudos
 
 Atualmente sou formado em Análise e desenvolvimento de sistemas na universidade FIAP, e como técnico em mecatrônica.
 
-💻 ### Histórico profissional 
+### 💻 Histórico profissional 
 
 Tenho facilidade em aprender e trabalhar a distância, graças a sistemas de horários que me auxiliam, sempre estudei assim, e durante os fatos ocorridos em 2020, tive que mudar minha rotina para aprender a trabalhar a distância também.
 
