@@ -49,3 +49,5 @@ Entre em contato comigo!
 ✉ Gmail: andrelara2002@gmail.com
 
 🖼 LinkedIn: [https://www.linkedin.com/in/andré-lara-1a65b2199](https://www.linkedin.com/in/andrelara2002)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=andrelara2002.285121025)
