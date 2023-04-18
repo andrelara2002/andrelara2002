@@ -1,6 +1,5 @@
 ### Olá 👋
 
-
 <img width='50%' align = 'left' src ='https://github-readme-stats.vercel.app/api?username=andrelara2002&show_icons=true&theme=radical'>
 <img width='40%' align = 'rigth' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=andrelara2002&layout=compact&theme=radical'>
 
