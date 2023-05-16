@@ -1,7 +1,6 @@
 <h2 align='center'>Hi! I'm André</h2>
 <h3 align='center'>Full Stack Developer</h3>
 
-<img align='center' src= 'https://visitor-badge.glitch.me/badge?page_id=andrelara2002.285121025'>
 
 <img width='50%' align = 'left' src ='https://github-readme-stats.vercel.app/api?username=andrelara2002&show_icons=true&theme=radical'>
 <img width='40%' align = 'rigth' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=andrelara2002&layout=compact&theme=radical'>
@@ -20,4 +19,6 @@
   
 </div>
 
+<h3>Check my actual projects</h3>
+<img src = 'https://github-readme-stats.vercel.app/api/pin/?username=HOPDigital&repo=finance-app&theme=radical' >
 
