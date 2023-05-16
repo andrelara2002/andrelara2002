@@ -20,5 +20,6 @@
 </div>
 
 <h3>Check my actual projects</h3>
-<img src = 'https://github-readme-stats.vercel.app/api/pin/?username=HOPDigital&repo=finance-app&theme=radical' >
-
+<a href="https://github.com/HOPDigital/finance-app">
+ <img src = 'https://github-readme-stats.vercel.app/api/pin/?username=HOPDigital&repo=finance-app&theme=radical' >
+</a>
