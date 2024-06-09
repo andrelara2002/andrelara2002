@@ -2,7 +2,6 @@
 <h3 align='center'>Full Stack Developer</h3>
 
 
-<img width='100%' align = 'rigth' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=andrelara2002&layout=compact&theme=radical'>
 
 <div align="center">
  
@@ -18,5 +17,6 @@
 
 <h3>Check my actual projects</h3>
 <a href="https://github.com/HOPDigital/finance-app" target='_blank'>
- <img src = 'https://github-readme-stats.vercel.app/api/pin/?username=HOPDigital&repo=finance-app&theme=radical' >
+ <img align='left' src = 'https://github-readme-stats.vercel.app/api/pin/?username=HOPDigital&repo=finance-app&theme=radical' >
+ <img align = 'rigth' src ='https://github-readme-stats.vercel.app/api/top-langs/?username=andrelara2002&layout=compact&theme=radical'>
 </a>
